@@ -44,3 +44,7 @@ The following data cleaning steps were performed:
 
 ## Conclusion
 This dashboard helps stakeholders understand sales trends, shipping behavior, and geographic performance through interactive visualizations.
+
+### Dashboard Explanation video
+https://drive.google.com/file/d/1tAOpDgsU_BwUO06tUYL5stxBVWROstyR/view?usp=sharing
+
