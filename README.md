@@ -28,11 +28,6 @@ The following data cleaning steps were performed:
 
 - Multi-page report design for better readability
 
-## Tools Used
-
-- Power BI Desktop
-
-- Microsoft Excel
 
 ## Key Insights
 
